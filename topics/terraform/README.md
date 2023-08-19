@@ -1014,6 +1014,12 @@ One reason is that all the workspaces are stored in one location (as in one back
 `terraform workspace show`
 
 </b></details>
+<details>
+<summary>How to switch between workspaces?</summary><br><b>
+
+`terraform workspace select <workspace Name>`
+
+</b></details>
 
 ### Terraform Structures and Syntax
 
